@@ -1,0 +1,86 @@
+body {
+  background: linear-gradient(
+    -45deg,
+    #ff9a9e,
+    #fad0c4,
+    #fad0c4,
+    #fbc2eb,
+    #a6c1ee,
+    #fbc2eb,
+    #a1c4fd,
+    #a1c4fd
+  );
+  background-size: 400% 400%;
+  animation: gradientAnimation 15s ease infinite;
+  width: 400px;
+  height: 400px;
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.XT_256 {
+  font: 900;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.XT_257 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+}
+
+.XT_257 input {
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  padding: 8px;
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.XT_257 button {
+  border-radius: 8px;
+  padding: 8px;
+  width: 50%;
+  color: #ffffff;
+  background: #000;
+}
+
+.XT_258 {
+  background: #000;
+  border-radius: 12px;
+  overflow-y: auto;
+  max-height: 300px;
+}
+
+.XT_258 p {
+  padding: 12px;
+  color: #ffffff;
+  font: 700;
+  font-size: medium;
+}
+
+.XT_258::-webkit-scrollbar {
+  width: 8px;
+}
+
+.XT_258::-webkit-scrollbar-thumb {
+  background-color: red;
+  border-radius: 8px;
+}
