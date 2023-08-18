@@ -10,7 +10,7 @@ inp.addEventListener("change", async function (e) {
     method: "POST",
     headers: {
       "content-type": "application/json",
-      "X-RapidAPI-Key": "YOUR-RAPID-API-KEY",
+      "X-RapidAPI-Key": "YOUR_API_KEY",
       "X-RapidAPI-Host": "text-analysis12.p.rapidapi.com",
     },
     processData: false,
