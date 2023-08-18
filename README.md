@@ -40,4 +40,4 @@ We welcome contributions from the community! If you have any ideas, bug reports,
 
 ## License
 
-This project is licensed under the [MIT License](link_to_license_file).
+This project is licensed under the [MIT License](LICENSE).
