@@ -30,9 +30,9 @@ Follow these simple steps to get started with SummAIze:
 
 ## Screenshots
 
-![Screenshot 1](ScreenShot1.png)
-![Screenshot 2](ScreenShot2.png)
-![Screenshot 3](ScreenShot3.png)
+![Screenshot 1](Screenshot1.png)
+![Screenshot 2](Screenshot2.png)
+![Screenshot 3](Screenshot3.png)
 
 ## Contributing
 
