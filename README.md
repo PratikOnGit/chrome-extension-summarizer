@@ -36,7 +36,7 @@ Follow these simple steps to get started with SummAIze:
 
 ## Contributing
 
-We welcome contributions from the community! If you have any ideas, bug reports, or feature requests, please feel free to [open an issue](link_to_issue_tracker) or submit a pull request.
+We welcome contributions from the community! If you have any ideas, bug reports, or feature requests, please feel free to [open an issue](/issues) or submit a pull request.
 
 ## License
 
